@@ -8,4 +8,4 @@ This project presents a dashboard created to visualize the data from the Belly B
 
 Below are the 3 charts that present our main findings.
 
-<img src="https://github.com/Zbahsoun/Biodiversity/blob/main/Website.png" width=50% height=40%>
+<img src="https://github.com/Zbahsoun/Biodiversity/blob/main/Website.png" width=80% height=60%>
